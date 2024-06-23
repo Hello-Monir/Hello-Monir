@@ -27,7 +27,7 @@ Skills: HTML / CSS / JS
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hello-monir&show_icons=true" />
 </picture> 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hello-monir&langs_count=8
+
 
  
  
