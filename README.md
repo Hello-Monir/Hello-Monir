@@ -28,7 +28,9 @@ Skills: HTML / CSS / JS
   <img src="https://github-readme-stats.vercel.app/api?username=hello-monir&show_icons=true" />
 </picture>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hello-Monir/Hello-Monir&show_icons=true)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-monir&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Hello-Monir/Hello-Monir/contributions?format=svg&private=false)  
 
