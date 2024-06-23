@@ -16,7 +16,13 @@ Skills: HTML / CSS / JS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-| `buefy` ![buefy][buefy] |
+$ curl -I https://www.my-server.com/images/some-image.png
+> HTTP/2 200
+> Date: Fri, 06 Jun 2014 07:27:43 GMT
+> Expires: Sun, 06 Jul 2014 07:27:43 GMT
+> Content-Type: image/x-png
+> Server: Google Frontend
+> Content-Length: 6507
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hello-Monir/Hello-Monir&show_icons=true)  
 
