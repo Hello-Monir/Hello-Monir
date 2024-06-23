@@ -17,7 +17,7 @@ Skills: HTML / CSS / JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Hello-Monir/Hello-Monir)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hello-Monir/Hello-Monir&show_icons=true)  
 
