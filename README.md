@@ -26,10 +26,7 @@ Skills: HTML / CSS / JS
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hello-monir&show_icons=true" />
-</picture>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-monir&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+</picture> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-monir&langs_count=8)
  
  
 
