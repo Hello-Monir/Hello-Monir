@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Abdullah Al Monir 
-#### A Learner......
+#### About me
 
 A dedicated student of Computer Science & Engineering at Feni University, combines a passion for technology with a commitment to academic excellence. Eager to explore and contribute to the dynamic world of computer science.
 
