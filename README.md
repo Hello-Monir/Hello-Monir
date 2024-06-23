@@ -1,8 +1,5 @@
-(https://www.facebook.com/photo/?fbid=449798440783722&set=a.107273171702919
-
 ### Hi there 👋, I'm Abdullah Al Monir 
 #### A Learner......
-![A Learner......]
 
 A dedicated student of Computer Science & Engineering at Feni University, combines a passion for technology with a commitment to academic excellence. Eager to explore and contribute to the dynamic world of computer science.
 
